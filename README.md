@@ -1,0 +1,2 @@
+# wdqo
+Wikidata qualifier ontology
